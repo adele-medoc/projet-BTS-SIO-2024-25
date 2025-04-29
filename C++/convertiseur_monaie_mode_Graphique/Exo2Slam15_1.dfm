@@ -1,0 +1,112 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 364
+  ClientWidth = 406
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -12
+  Font.Name = 'Segoe UI'
+  Font.Style = []
+  Menu = MainMenu1
+  TextHeight = 15
+  object Label1: TLabel
+    Left = 32
+    Top = 208
+    Width = 55
+    Height = 25
+    Caption = 'Dollars'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = 25
+    Font.Name = 'Segoe UI'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label2: TLabel
+    Left = 32
+    Top = 120
+    Width = 36
+    Height = 25
+    Caption = 'Euro'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = 25
+    Font.Name = 'Segoe UI'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Edit1: TEdit
+    Left = 248
+    Top = 117
+    Width = 121
+    Height = 33
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = 25
+    Font.Name = 'Segoe UI'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 0
+    OnChange = Edit1Change
+  end
+  object Edit2: TEdit
+    Left = 248
+    Top = 205
+    Width = 121
+    Height = 33
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = 25
+    Font.Name = 'Segoe UI'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 1
+    OnChange = Edit2Change
+  end
+  object Button1: TButton
+    Left = 136
+    Top = 280
+    Width = 115
+    Height = 49
+    Caption = 'Quitter'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = 20
+    Font.Name = 'Segoe UI'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 2
+  end
+  object MainMenu1: TMainMenu
+    Left = 144
+    Top = 208
+    object devise1: TMenuItem
+      Caption = 'devise'
+      object devise2: TMenuItem
+        Caption = 'Dollars'
+        OnClick = devise2Click
+      end
+      object Yen1: TMenuItem
+        Caption = 'Yen'
+        OnClick = Yen1Click
+      end
+      object Yen2: TMenuItem
+        Caption = 'Livres'
+        OnClick = Yen2Click
+      end
+      object FrancCFA1: TMenuItem
+        Caption = 'Franc CFA'
+        OnClick = FrancCFA1Click
+      end
+    end
+    object Sortir1: TMenuItem
+      Caption = 'Sortir'
+      object Sortir2: TMenuItem
+        Caption = 'ohoh'
+      end
+    end
+  end
+end

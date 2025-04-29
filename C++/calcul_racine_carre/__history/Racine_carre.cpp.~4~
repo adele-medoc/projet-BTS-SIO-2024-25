@@ -1,0 +1,24 @@
+#include <iostream>
+#include <conio.h>
+#include <cmath>
+
+using namespace std;
+
+int main(void)
+{   //début p.p
+int n;
+float resultat, approximation;
+
+cout<<"Saisir n :";
+cin>>n;
+resultat = n;
+approximation = 0.000001;
+
+while (fabs(n-resultat*resultat )>approximation){
+resultat = 0.5 * ((n/resultat) + resultat);
+}
+
+cout<<" Racine carre de "<<n<<" est "<<resultat;
+getch();
+return 0;
+}

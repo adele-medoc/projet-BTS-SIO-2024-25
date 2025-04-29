@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/10/20 15:17:44.031,=C:\Users\greta\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/20 15:17:44.511,=C:\Users\greta\Documents\Embarcadero\Studio\Projets\File1.cpp</Transaction>
+    <Transaction>2024/10/20 15:21:15.045,C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO5_bis\ExSIO5_bisPCH1.h=C:\Users\greta\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/20 15:21:15.059,C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO5_bis\File1.cpp=C:\Users\greta\Documents\Embarcadero\Studio\Projets\File1.cpp</Transaction>
+    <Transaction>2024/10/20 15:21:15.071,C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO5_bis\ExSIO5_bis.cbproj=C:\Users\greta\Documents\Embarcadero\Studio\Projets\Project1.cbproj</Transaction>
+    <Transaction>2024/10/20 15:21:24.844,C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO5_bis\ExSIO5_bis.cpp=C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO5_bis\File1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

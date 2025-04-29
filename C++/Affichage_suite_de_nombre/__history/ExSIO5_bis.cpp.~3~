@@ -1,0 +1,54 @@
+// suite_SIO_5.5.cpp : Ce fichier contient la fonction 'main'. L'exécution du programme commence et se termine à cet endroit.
+#include <iostream>
+#include <conio.h>
+#include <stdio.h>
+
+using namespace std;
+
+int main(void)
+{
+	int val_min;
+	int val_max;
+	int val_aff;
+
+
+	cout << "Prog Pour afficher une suite de nombre. Saisir la valeur minimum : ";
+	cin >> val_min;
+
+	cout << "Prog Pour afficher une suite de nombre. Saisir la valeur maximun : ";
+	cin >> val_max;
+
+	cout << "Afficher \n les valeurs paires : saisir 1 \n les valeurs impaires : saisir 2 \n toutes les valeurs : saisir 3 ";
+	cin >> val_aff;
+	cout << "suite :";
+
+   /*
+   while (val_min < val_max+1){
+		switch (val_aff)
+		{
+			case 1:
+				if (val_min % 2 == 0) {
+					cout << val_min << " ";
+				}
+				break;
+			case 2:
+				if (val_min % 2 == 1) {
+					cout << val_min << " ";
+				}
+				break;
+			default:
+				cout << "\n" << val_min << " ";
+				break;
+		}
+		val_min++;
+	}
+    */
+    for (i = 0; i < n+1; i++) {
+     if (true) {
+
+     }
+    }
+
+	_getch(); // garder ouverte la console
+	return 0;
+}

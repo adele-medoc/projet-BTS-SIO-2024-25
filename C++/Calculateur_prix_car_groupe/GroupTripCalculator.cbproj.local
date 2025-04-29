@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/04/15 20:56:56.000.990,=C:\Users\greta\Documents\Embarcadero\Studio\Projets\Project2PCH1.h</Transaction>
+    <Transaction>2025/04/15 20:56:57.000.614,=C:\Users\greta\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2025/04/15 20:57:12.853,=C:\Users\greta\Documents\Embarcadero\Studio\Projets\Project2PCH1.h</Transaction>
+    <Transaction>2025/04/15 20:57:12.888,=C:\Users\greta\Documents\Embarcadero\Studio\Projets\File2.cpp</Transaction>
+    <Transaction>2025/04/15 20:59:12.398,C:\Users\greta\Desktop\projetBTS\C++\Calculateur_prix_car_groupe\GroupTripCalculator.cpp=C:\Users\greta\Documents\Embarcadero\Studio\Projets\File2.cpp</Transaction>
+    <Transaction>2025/04/15 20:59:26.732,C:\Users\greta\Desktop\projetBTS\C++\Calculateur_prix_car_groupe\GroupTripCalculatorPCH1.h=C:\Users\greta\Documents\Embarcadero\Studio\Projets\Project2PCH1.h</Transaction>
+    <Transaction>2025/04/15 20:59:26.737,C:\Users\greta\Desktop\projetBTS\C++\Calculateur_prix_car_groupe\GroupTripCalculator.cbproj=C:\Users\greta\Documents\Embarcadero\Studio\Projets\Project2.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

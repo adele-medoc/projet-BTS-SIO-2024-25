@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/03/14 14:29:48.000.984,=C:\Users\greta\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2025/03/14 14:29:48.000.640,=C:\Users\greta\Documents\Embarcadero\Studio\Projets\Project2PCH1.h</Transaction>
+    <Transaction>2025/03/14 14:31:11.000.484,C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO15\ConvertiseurMonaie\Exo2Slam15PCH1.h=C:\Users\greta\Documents\Embarcadero\Studio\Projets\Project2PCH1.h</Transaction>
+    <Transaction>2025/03/14 14:31:11.000.500,C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO15\ConvertiseurMonaie\Unit1.dfm=C:\Users\greta\Documents\Embarcadero\Studio\Projets\Unit1.dfm</Transaction>
+    <Transaction>2025/03/14 14:31:11.000.515,C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO15\ConvertiseurMonaie\Exo2Slam15.cbproj=C:\Users\greta\Documents\Embarcadero\Studio\Projets\Project2.cbproj</Transaction>
+    <Transaction>2025/03/14 14:31:11.000.500,C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO15\ConvertiseurMonaie\Unit1.h=C:\Users\greta\Documents\Embarcadero\Studio\Projets\Unit1.h</Transaction>
+    <Transaction>2025/03/14 14:31:11.000.500,C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO15\ConvertiseurMonaie\Unit1.cpp=C:\Users\greta\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2025/03/14 14:32:12.000.171,C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO15\ConvertiseurMonaie\Exo2Slam15_1.dfm=C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO15\ConvertiseurMonaie\Unit1.dfm</Transaction>
+    <Transaction>2025/03/14 14:32:12.000.171,C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO15\ConvertiseurMonaie\Exo2Slam15_1.cpp=C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO15\ConvertiseurMonaie\Unit1.cpp</Transaction>
+    <Transaction>2025/03/14 14:32:12.000.171,C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO15\ConvertiseurMonaie\Exo2Slam15_1.h=C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO15\ConvertiseurMonaie\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>

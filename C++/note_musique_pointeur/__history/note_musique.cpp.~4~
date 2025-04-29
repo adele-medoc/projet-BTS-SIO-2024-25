@@ -1,0 +1,64 @@
+#include <iostream>
+#include <conio.h>
+#include <windows.h>
+
+using namespace std;
+
+int main(void)
+{   //début p.p
+char touche;
+int la;
+int note;
+int tps_note = 500;
+char *mus = new char[100];
+int cpt=0;
+
+cout<<"joue la note que tu veux : \n DO = d \n RE = r \n MI = m \n FA = f \n SOL = s \n LA = l \n SI = i";
+
+while(touche != 'q'){
+touche=getch();
+cout<<"note"<<touche<<"\n";
+
+    switch(touche){
+        case'd':
+            note=262;
+            break;
+        case'r':
+            note=294;
+            break;
+        case'm':
+            note = 330;
+            break;
+        case'f':
+            note =349;
+            break;
+        case's':
+            note = 392;
+            break;
+        case'l':
+            note = 440;
+            break;
+        case'i':
+            note = 494;
+            break;
+        case'p':
+            for(int pos=0; pos<cpt;pos++){
+              melodie =* (mus+pos);
+            }
+			break;
+        case'e':
+            mus = NULL;
+            break;
+        default:
+            cout<<"Touche non attribue";
+            break;
+}
+Beep(note,tps_note);
+*(mus+cpt)=touche;
+cpt++;
+}
+delete[] mus;
+
+getch();
+return 0;
+}

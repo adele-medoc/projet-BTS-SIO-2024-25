@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/02/07 15:20:55.561,=C:\Users\greta\Documents\Embarcadero\Studio\Projets\Project2PCH1.h</Transaction>
+    <Transaction>2025/02/07 15:20:55.713,=C:\Users\greta\Documents\Embarcadero\Studio\Projets\File2.cpp</Transaction>
+    <Transaction>2025/02/07 15:22:17.535,C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO13\Exo4\passage_par_referencePCH1.h=C:\Users\greta\Documents\Embarcadero\Studio\Projets\Project2PCH1.h</Transaction>
+    <Transaction>2025/02/07 15:22:17.550,C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO13\Exo4\File2.cpp=C:\Users\greta\Documents\Embarcadero\Studio\Projets\File2.cpp</Transaction>
+    <Transaction>2025/02/07 15:22:17.567,C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO13\Exo4\passage_par_reference.cbproj=C:\Users\greta\Documents\Embarcadero\Studio\Projets\Project2.cbproj</Transaction>
+    <Transaction>2025/02/07 15:22:25.109,C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO13\Exo4\passage_par_reference.cpp=C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO13\Exo4\File2.cpp</Transaction>
+    <Transaction>2025/02/07 15:22:29.275,C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO13\Exo4\passage_par_reference.cbproj=C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO13\Exo4\passage_par_reference.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

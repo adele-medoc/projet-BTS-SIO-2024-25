@@ -1,0 +1,37 @@
+#include <iostream>
+#include <conio.h>
+#include <cmath>
+
+using namespace std;
+
+int main(void)
+{   //début p.p
+float a,b,c,x1,x2;
+double racine_delta,delta;
+cout<<"Saisir a:";
+cin>>a;
+cout<<"Saisir b:";
+cin>>b;
+cout<<"Saisir c:";
+cin>>c;
+
+delta = (b*b)-(4*a*c);
+
+if (delta < 0) {
+ cout<<"Aucune solution";
+}
+
+if (delta == 0) {
+x1 = (-b)/(2*a);
+cout<<"Une solution : "<<x1;
+}
+
+if (delta > 0) {
+ double racine_delta = sqrt( delta );
+ x1 = ((-b) + racine_delta)/(2*a);
+ x2 = ((-b) - racine_delta)/(2*a);
+ cout<<"Deux solutions, x1 : "<<x1<<" x2 : "<<x2;
+}
+getch();
+return 0;
+}

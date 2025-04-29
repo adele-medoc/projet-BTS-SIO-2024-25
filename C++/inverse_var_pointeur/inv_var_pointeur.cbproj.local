@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/11/08 15:01:36.000.927,=C:\Users\greta\Documents\Embarcadero\Studio\Projets\Project2PCH1.h</Transaction>
+    <Transaction>2024/11/08 15:01:37.000.323,=C:\Users\greta\Documents\Embarcadero\Studio\Projets\File2.cpp</Transaction>
+    <Transaction>2024/11/08 15:18:23.000.913,C:\Users\greta\Documents\Embarcadero\Studio\Projets\Project2PCH1.h=C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO9\inv_var_pointeurPCH1.h</Transaction>
+    <Transaction>2024/11/08 15:18:23.000.937,C:\Users\greta\Documents\Embarcadero\Studio\Projets\Project2.cbproj=C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO9\inv_var_pointeur.cbproj</Transaction>
+    <Transaction>2024/11/08 15:18:23.000.924,C:\Users\greta\Documents\Embarcadero\Studio\Projets\File2.cpp=C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO9\File2.cpp</Transaction>
+    <Transaction>2024/11/08 15:18:30.000.098,C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO9\File2.cpp=C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO9\inv_var_pointeur.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

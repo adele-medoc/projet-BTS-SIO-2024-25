@@ -1,0 +1,45 @@
+//---------------------------------------------------------------------------
+
+#include <vcl.h>
+#pragma hdrstop
+
+#include "Exo2Slam15_1.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+#pragma resource "*.dfm"
+TForm1 *Form1;
+//---------------------------------------------------------------------------
+__fastcall TForm1::TForm1(TComponent* Owner)
+	: TForm(Owner)
+{   taux = 0.92;
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::Edit1Change(TObject *Sender)
+{
+try{
+valeur = StrToFloat(Edit1->Text);
+valeur = valeur / taux;
+Edit2->Text=FloatToStr(valeur); }
+
+catch(...){
+    if (Edit1->Text=="") {
+        Edit2->Text="";
+    }else Edit2->Text="Erreur de saisie";
+} }
+//---------------------------------------------------------------------------
+
+void __fastcall TForm1::Edit2Change(TObject *Sender)
+{
+ try{
+valeur = StrToFloat(Edit2->Text);
+valeur = valeur * taux;
+Edit1->Text=FloatToStr(valeur); }
+
+catch(...){
+    if (Edit2->Text=="") {
+        Edit1->Text="";
+    }else Edit1->Text="Erreur de saisie";
+}
+}
+//---------------------------------------------------------------------------
+

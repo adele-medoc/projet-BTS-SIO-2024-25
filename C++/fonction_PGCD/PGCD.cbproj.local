@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/02/07 10:02:15.047,=C:\Users\greta\Documents\Embarcadero\Studio\Projets\Project2PCH1.h</Transaction>
+    <Transaction>2025/02/07 10:02:15.473,=C:\Users\greta\Documents\Embarcadero\Studio\Projets\File2.cpp</Transaction>
+    <Transaction>2025/02/07 10:06:07.393,C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO12\Exo4\fonction_PGCD.cpp=C:\Users\greta\Documents\Embarcadero\Studio\Projets\File2.cpp</Transaction>
+    <Transaction>2025/02/07 10:28:04.347,C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO12\Exo4\PGCDPCH1.h=C:\Users\greta\Documents\Embarcadero\Studio\Projets\Project2PCH1.h</Transaction>
+    <Transaction>2025/02/07 10:28:04.352,C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO12\Exo4\PGCD.cbproj=C:\Users\greta\Documents\Embarcadero\Studio\Projets\Project2.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

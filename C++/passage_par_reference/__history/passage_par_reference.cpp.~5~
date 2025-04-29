@@ -1,0 +1,39 @@
+#include <iostream>
+#include <conio.h>
+#include <math.h>
+
+using namespace std;
+
+void saisie(float &aa,float &bb,float &cc){
+cout<< "saisir a : ";
+cin>>aa;
+cout<< "saisir b : ";
+cin>>bb;
+cout<< "saisir c : ";
+cin>>cc;}
+
+void calcul(float aa,float bb,float cc){
+float delta = bb*bb - (4*aa*cc)
+if (delta < 0) {
+   cout<<"pas de solution dans R";
+}
+if (delta == 0) {
+    cout<<"une solution pour x"<< -bb / (2*aa)
+}
+if (delta > 0) {
+   cout << "solution 1 de x: "<< (-bb-sqrt(delta))/(2*aa);
+   cout << "solution 2 de x: "<< (-bb+sqrt(delta))/(2*aa);
+}
+
+}
+
+
+int main(void)
+{   //début p.p
+cout<<"Calcul de racine pour une equation ax2 + bx + c =0"}
+saisie();
+calcul();
+
+getch();
+return 0;
+}

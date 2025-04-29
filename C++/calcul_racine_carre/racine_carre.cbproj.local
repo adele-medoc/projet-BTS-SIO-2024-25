@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/10/30 14:14:34.000.660,=C:\Users\greta\Documents\Embarcadero\Studio\Projets\Project2PCH1.h</Transaction>
+    <Transaction>2024/10/30 14:14:34.000.716,=C:\Users\greta\Documents\Embarcadero\Studio\Projets\File2.cpp</Transaction>
+    <Transaction>2024/10/30 14:15:20.000.167,C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO8\Exo7\Racine_carre.cpp=C:\Users\greta\Documents\Embarcadero\Studio\Projets\File2.cpp</Transaction>
+    <Transaction>2024/10/30 14:44:12.000.994,C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO8\Exo7\racine_carrePCH1.h=C:\Users\greta\Documents\Embarcadero\Studio\Projets\Project2PCH1.h</Transaction>
+    <Transaction>2024/10/30 14:44:13.000.000,C:\Users\greta\Desktop\Cours\Algo\C++\Exercices\Exercice_SIO_SLAM\ExSIO8\Exo7\racine_carre.cbproj=C:\Users\greta\Documents\Embarcadero\Studio\Projets\Project2.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,30 @@
+#include <iostream>
+#include <conio.h>
+
+using namespace std;
+
+int main(void)
+{   //début p.p
+float a;
+float b;
+float x;
+
+cout<<"Saisir a : ";
+cin>>a;
+cout<<"Saisir b : ";
+cin>>b;
+
+if (a == 0 && b == 0) {
+    cout<<"Solution indertermine";
+}
+
+if (a == 0 && b != 0) {
+   cout<<"Solution impossible";
+}
+else
+x = (-b)/a;
+cout<<"x vaut : "<<x;
+
+getch();
+return 0;
+}

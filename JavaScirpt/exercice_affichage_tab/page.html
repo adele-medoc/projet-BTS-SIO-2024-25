@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title> Notes </title>
+            <meta charset="UTF-8"/>
+            <link href="  " rel="stylesheet">
+        </head>
+        <body> 
+            
+            <form id="dde_note" method="GET" action="#" onSubmit ="Afficher(this.note.value, this.nom.value);"> 
+                <table>
+                    <tr> <td>Choisir nom étudiant : </td> <td> <select id="nom" name="nom">
+                    </select> </td> </tr>
+                        
+                    <tr> 
+                        <td>Choissir type de note </td> 
+                        <td> 
+                            <select id="note" name="note"> 
+                            </select> 
+                        </td>
+                    </tr>
+
+                    <tr> 
+                        <td> <input id="valider" type="submit" value="Afficher">  </td> 
+                        <td>  </td>
+                    </tr>
+
+                    <tr>
+                        <td> Résultat : </td> 
+                        <td> <input type="text" id="resultat"> </td> 
+                    </tr>
+                </table>
+            </form>
+
+            <script type="text/javascript" language="JavaScript" src="table.js">
+            </script>
+        </body>
+    </html>
+
+

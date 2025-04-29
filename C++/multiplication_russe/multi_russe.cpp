@@ -1,0 +1,29 @@
+#include <iostream>
+#include <conio.h>
+
+using namespace std;
+
+int main(void)
+{   //début p.p
+int a,b,resultat;
+resultat = 0;
+
+cout<<"Saisir a :";
+cin>>a;
+
+cout<<"Saisir b :";
+cin>>b;
+
+while (a > 0){
+if (a % 2 == 1) {
+    resultat +=b;
+}
+a>>=1;
+b<<=1;
+}
+
+cout<< "Le resultat est "<<resultat;
+
+getch();
+return 0;
+}

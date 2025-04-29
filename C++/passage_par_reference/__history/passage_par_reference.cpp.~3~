@@ -1,0 +1,14 @@
+#include <iostream>
+#include <conio.h>
+
+using namespace std;
+
+void saisie(float &aa,float &bb,float &cc){}
+void calcul(float aa,float bb,float cc)
+int main(void)
+{   //début p.p
+
+
+getch();
+return 0;
+}
